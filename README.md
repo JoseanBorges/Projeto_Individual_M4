@@ -5,7 +5,8 @@
 
 Neste documento, vamos conduzir um exame detalhado dos dados gerados pelo projeto de engenharia de software executado pela companhia responsável. O objetivo é proporcionar percepções valiosas sobre o avanço do projeto, detectar setores que necessitam de otimização e sugerir ações pautadas em dados que contribuam para assegurar o triunfo do projeto.
 
-* ***As ferramentas utilizadas neste projeto são:***
+* ***As ferramentas utilizadas neste projeto são:***  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 Logo abaixo, temos a figura com o resultado da coleta de dados no período de 01 semana.
@@ -50,10 +51,12 @@ Utilizando as filtragens, foram extraídos do Dataset as colunas correspondentes
 
 ![horas trabalhadas](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/1%20horas%20trabalhadas.png)![bugs corrigidos](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/2%20Bugs%20Corrigidos.png)![tarefas concluidas](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/3%20Tarefas%20concluidas.png)![tarefas concluidas por hora](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/4%20Tarefas%20concluidas%20por%20hora.png)
 
-* Na sequência temos, a ilustração da a relação entre os bugs corrigidos e as horas trabalhadas, evidenciando assim a eficiência na solução de problemas.
+* Na sequência temos, a ilustração da relação entre os bugs corrigidos e as horas trabalhadas, evidenciando assim a eficiência na solução de problemas.
 
-INSERIR IMAGEM AQUI
+![grafico1](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Graficos1.png)
 
 * Nas próximas ilustrações, você verá a representação do número de tarefas executadas e concluídas por hora, demonstrando a produtividade da equipe a cada intervalo de tempo.
 
-INSERIR IMAGEM AQUI
+![grafico2](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Graficos2.png)
+
+
