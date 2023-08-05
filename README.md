@@ -11,11 +11,11 @@ Neste documento, vamos conduzir um exame detalhado dos dados gerados pelo projet
 
 Logo abaixo, temos a figura com o resultado da coleta de dados no período de 01 semana.
 
-![tabela principal](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Tabela%20principal.png)
+![tabela principal](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Imagens%20dos%20gr%C3%A1ficos/Tabela%20principal.png)
 
 * Para otimizar a recuperação do número de tarefas completadas por hora, foi preciso incluir uma coluna adicional com a mesma denominação(tarefas concluídas por hora).
 
-![tarefas concluidas por hora](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Engenharia%20de%20dados.png)
+![tarefas concluidas por hora](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Imagens%20dos%20gr%C3%A1ficos/4%20Tarefas%20concluidas%20por%20hora.png)
 ---
 Baseado na análise destes dados e nas métricas avaliadas, podemos inferir o seguinte sobre cada tópico:
 
@@ -49,14 +49,17 @@ Baseado na análise destes dados e nas métricas avaliadas, podemos inferir o se
 
 Utilizando as filtragens, foram extraídos do Dataset as colunas correspondentes às figuras de amostragem. São elas: horas trabalhadas, bugs corrigidos, tarefas concluídas e tarefas concluídas por hora.
 
-![horas trabalhadas](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/1%20horas%20trabalhadas.png)![bugs corrigidos](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/2%20Bugs%20Corrigidos.png)![tarefas concluidas](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/3%20Tarefas%20concluidas.png)![tarefas concluidas por hora](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/4%20Tarefas%20concluidas%20por%20hora.png)
+![horas trabalhadas](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Imagens%20dos%20gr%C3%A1ficos/1%20horas%20trabalhadas.png)![bugs corrigidos](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Imagens%20dos%20gr%C3%A1ficos/2%20Bugs%20Corrigidos.png)![tarefas concluidas](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Imagens%20dos%20gr%C3%A1ficos/3%20Tarefas%20concluidas.png)![tarefas concluidas por hora](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Imagens%20dos%20gr%C3%A1ficos/4%20Tarefas%20concluidas%20por%20hora.png)
+
 
 * Na sequência temos, a ilustração da relação entre os bugs corrigidos e as horas trabalhadas, evidenciando assim a eficiência na solução de problemas.
+**Para uma visão mais detalhada, consulte o gráfico no arquivo  ___Projeto_Induvidual_M4.ipynb___.
 
-![grafico1](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Graficos1.png)
+![grafico1](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Imagens%20dos%20gr%C3%A1ficos/Graficos1.png)
 
 * Nas próximas ilustrações, você verá a representação do número de tarefas executadas e concluídas por hora, demonstrando a produtividade da equipe a cada intervalo de tempo.
+**Para uma visão mais detalhada, consulte o gráfico no arquivo  ___Projeto_Induvidual_M4.ipynb___.
 
-![grafico2](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Graficos2.png)
+![grafico2](https://raw.githubusercontent.com/JoseanBorges/Projeto_Individual_M4/main/Imagens%20dos%20gr%C3%A1ficos/Graficos2.png)
 
 
